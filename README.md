@@ -9,6 +9,7 @@ Then I got some pivot tables with that information in order to make an interacti
 Here you can see the Charts that I created
 
 Sales by Country - Line Chart
+
 ![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/59d6b94b-b197-4f90-9a6a-38f3f6ba80c5)
 
 
