@@ -7,4 +7,7 @@ First I followed some steps to format the data and fill up the table that I'll u
 Then I got some pivot tables with that information in order to make an interactive Dashboard so the stakeholders can play with the dates, types, countries and top customers
 
 
-https://docs.google.com/spreadsheets/d/1oeEu7F8xC2Xgsr5cs-MNH7RYBz3Ikf1-GNWwDJP1vhQ/edit#gid=1936448610
+Here you can see the steps that I followed in order to make the final product: https://docs.google.com/document/d/1HxK5DPPOWg-22kCBP8t72WtrH_Y_7JSn5ukRQn7JjGw/edit?usp=sharing
+
+
+Thanks for reading !
