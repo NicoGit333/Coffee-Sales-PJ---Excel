@@ -39,5 +39,6 @@ Los 5 mejores clientes
 
 Aquí pueden ver los pasos que seguí para realizar el producto final: https://docs.google.com/document/d/1HxK5DPPOWg-22kCBP8t72WtrH_Y_7JSn5ukRQn7JjGw/edit?usp=sharing
 
+El resultado de este proyecto es un Dashboard interactivo donde la empresa puede ver el flujo de ventas de cada variante, los mejores clientes, las ventas por país y el rango de fechas a lo largo del año.
 
 Gracias por leer !

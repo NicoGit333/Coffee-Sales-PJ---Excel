@@ -39,5 +39,7 @@ Top 5 Customers - Bar Chart
 
 Here you can see the steps that I followed in order to make the final product: https://docs.google.com/document/d/1HxK5DPPOWg-22kCBP8t72WtrH_Y_7JSn5ukRQn7JjGw/edit?usp=sharing
 
+The result of this project is an interactive Dashboard where the company can see the sales flow of each variant, the best clients, sales by country and the date range throughout the year.
+
 
 Thanks for reading !
