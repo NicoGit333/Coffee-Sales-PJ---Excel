@@ -1,36 +1,30 @@
-# Coffee Sales PJ - Excel
+# Coffee Sales Interactive Dashboard - Excel
 
-Hi this project consists of several orders of coffee types divided into (Arabica, Robusta, Excelsa and Liberica)
+Hi this project has as its data source the sales of various types of coffee from 2019 to 2022.
 
-First I followed some steps to format the data and fill up the table that I'll use for the analysis and Dashboard
+In this case I use Excel to do all the cleaning, formatting and organization of the data, and then create graphs that can be viewed on an interactive Dashboard.
 
-Then I got some pivot tables with that information in order to make an interactive Dashboard so the stakeholders can play with the dates, types, countries and top customers
-
-Here you can see the Charts that I created
+Here are the graphs that I created and the final Dashboard is attached in the repository.
 
 
-Sales by Country - Line Chart
 
-![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/59d6b94b-b197-4f90-9a6a-38f3f6ba80c5)
+### Sales by Coffee Type - Line Chart
+![Captura de pantalla 2024-02-06 100038](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/117d3ab4-1101-46b6-a7e0-91d602c646b7)
 
 
-Slicers
-
+### Slicers
 ![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/05c697e7-f5fd-4f97-a041-83533cd4287c)
 
 
-Orders Date - Timeline
-
+### Orders Date - Timeline
 ![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/25299635-d771-4017-8c34-b4d3b464670f)
 
 
-Sales by Country - Bar Chart
-
+### Sales by Country - Bar Chart
 ![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/9a850b86-b6f3-478c-b7c3-185d2e12df31)
 
 
-Top 5 Customers - Bar Chart
-
+### Top 5 Customers - Bar Chart
 ![image](https://github.com/NicoGit333/Coffee-Sales-PJ---Excel/assets/109071671/8901c5cc-e94a-4952-b83c-07e607f34501)
 
 
